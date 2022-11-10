@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 declare -a user_list
 declare user
 for user_info in $(cat /etc/passwd | cut -d":" -f1,3,7) # get users and UIDs
