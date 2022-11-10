@@ -4,8 +4,6 @@ Bash script to analyze processes
 
 ############################################
 
-This script lets you see users processes
-
 Usage:
 
 -t: Show all users process
