@@ -120,11 +120,3 @@ while getopts ":vtu:h" options; do
 		  ;;
     esac
 done
-
-# falta:
-
-# mostrar el de todos los usuarios juntos ordenados
-# agregar el -v
-# cuando los procesos son mas largos que la pagina
-# script para sacar coseno de un numero y mostrarselo a todos los usuarios conectados en la pantalla
-# menu para acceder a los 2 scripts al acceder al login del usuario
