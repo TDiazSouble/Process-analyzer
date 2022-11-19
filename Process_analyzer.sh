@@ -9,7 +9,7 @@ done
 
 # show all processes
 all() {
-	echo  if [[ $option == "t" ]] 
+	echo
 	echo ---------------------------
 	echo 
 	echo "Hello $(whoami)"
